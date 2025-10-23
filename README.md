@@ -23,7 +23,6 @@ How It Works
 1. Question Class
 
 
-
 Each question has:
 
 text: The question itself
